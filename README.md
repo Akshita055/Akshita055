@@ -1,5 +1,60 @@
-# 💫 About Me:
-👩‍💻 About Me<br><br>🔭 I’m currently working on  <br>- Frontend projects using React.js & Tailwind CSS  <br>- Salesforce applications with automation, Flows & custom objects  <br>- CI/CD pipelines and cloud deployment workflows  <br><br>👩‍💼 Internship Experience  <br>- Salesforce Developer Intern @ Aiqube Technologies  <br>  - Built and automated business processes using Salesforce Flows  <br>  - Worked with custom objects, validation rules, and reports  <br><br>- Frontend Developer Intern @ Baoiam Innovations  <br>  - Developed responsive UI components using React.js  <br>  - Improved user experience and optimized frontend performance  <br><br>👯 I’m looking to collaborate on  <br>- Open-source frontend projects  <br>- React-based applications with clean UI/UX  <br>- Salesforce automation & DevOps-oriented projects  <br><br>🤝 I’m looking for help with  <br>- Advanced system design concepts  <br>- Scaling React applications  <br>- CI/CD optimization and cloud architecture  <br><br>🌱 I’m currently learning  <br>- Advanced React patterns  <br>- DevOps tools & cloud services  <br>- Data structures & algorithms  <br><br>💬 Ask me about  <br>- React, Tailwind CSS, Bootstrap ,JavaScript  <br>- Salesforce development & automation  <br>- Git, GitHub & CI/CD basics  <br><br>⚡ Fun fact  <br>I enjoy transforming complex problems into simple, elegant interfaces—and I’ve won a hackathon doing just that 🚀<br>
+# 💫 About Me
+
+Hi there 👋  
+I’m Akshita, a developer who enjoys building clean interfaces, automating workflows, and turning ideas into working products.
+
+---
+
+### 👩‍💻 What I’m Working On
+- Crafting frontend experiences with **React.js & Tailwind CSS**
+- Building **Salesforce applications** using Flows, automation, and custom objects
+- Exploring **CI/CD pipelines** and cloud deployment workflows
+
+---
+
+### 👩‍💼 Internship Experience
+
+**Salesforce Developer Intern | Aiqube Technologies**  
+- Automated business processes using Salesforce Flows  
+- Designed and managed custom objects, validation rules, and reports  
+
+**Frontend Developer Intern | Baoiam Innovations**  
+- Built responsive UI components using React.js  
+- Enhanced user experience and improved frontend performance  
+
+---
+
+### 👯 Open to Collaboration
+- Open-source frontend projects  
+- React applications with strong UI/UX focus  
+- Salesforce automation and DevOps-driven solutions  
+
+---
+
+### 🤝 Currently Seeking Help With
+- Advanced system design concepts  
+- Scaling and structuring large React applications  
+- Optimizing CI/CD workflows and cloud architecture  
+
+---
+
+### 🌱 Currently Learning
+- Advanced React patterns and best practices  
+- DevOps tools and cloud services  
+- Data Structures & Algorithms  
+
+---
+
+### 💬 Ask Me About
+- React, Tailwind CSS, Bootstrap, JavaScript  
+- Salesforce development and automation  
+- Git, GitHub, and CI/CD fundamentals  
+
+---
+
+### ⚡ Fun Fact
+I love simplifying complex problems into elegant interfaces — and I’ve won a hackathon doing exactly that 🚀
+
 
 
 ## 🌐 Socials:
@@ -12,14 +67,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Akshita055&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshita055&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshita055&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshita055&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akshita055&icon=0&color=0)](https://visitcount.itsvg.in)
